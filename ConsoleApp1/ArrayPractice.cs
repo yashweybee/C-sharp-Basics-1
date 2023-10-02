@@ -119,9 +119,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(obj);
             }
-
-
-
             Console.ReadLine();
         }
     }
